@@ -16,3 +16,9 @@ var myVar = "Hello, world!";
 ```
 
 Add code-block
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Add task list
