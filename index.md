@@ -6,3 +6,7 @@
 ###### H6 Title
 
 Markdown Title Level Study
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Add Image
