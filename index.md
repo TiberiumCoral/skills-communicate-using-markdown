@@ -10,3 +10,9 @@ Markdown Title Level Study
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Add Image
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Add code-block
